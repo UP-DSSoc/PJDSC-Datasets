@@ -1,2 +1,2 @@
 # PJDSC-Datasets
-Repository of datasets used for the org's Philippine Junior Data Science Challenge (PJDSC).
+Repository of datasets used for the Philippine Junior Data Science Challenge (PJDSC), UP Data Science Society's flagship program. 
