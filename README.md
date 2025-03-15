@@ -21,7 +21,7 @@ To provide an avenue for Data Science enthusiasts of UP Diliman to safely share 
 - 🚇 2024: Driving Progress: Harnessing Data Science for Innovations in Sustainable Urban Mobility
 
 # 📌 Final Round Source Codes
-- 🚇 Access the 🔗 [2024 teams here](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files)
+- Access the 🔗 [2024 teams here](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files)
 
 # ❔ Frequently Asked Questions (FAQs)
 1. I am not from Computer Science, Statistics, Engineering, or any course directly related to Data Science. Am I still allowed to register?
