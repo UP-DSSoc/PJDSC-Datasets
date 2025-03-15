@@ -21,7 +21,16 @@ To provide an avenue for Data Science enthusiasts of UP Diliman to safely share 
 - 🚇 2024: Driving Progress: Harnessing Data Science for Innovations in Sustainable Urban Mobility
 
 # 📌 Final Round Source Codes
-- Access the 🔗 [2024 teams here](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files)
+## 🚇 2024 Finalists
+*Note: To view files, please download or fork the repo for access. Files had to be compressed due to large size.*
+
+| **Team Name**  |  **Github Folder** |
+| --- | --- | 
+| BASS | [BASS's Folder](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files/BASS) |
+| Bangan | [Bangan's Folder](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files/Bangan) |    
+| CCLEX | [CCLEX's Folder](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files/CCLEX)  |  
+| Hippothesis | [Hippothesis' Foler](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files/Hippothesis) |
+| I Web You | [I Web You's Folder](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2024/Finalists'%20Files/I%20Web%20You) |
 
 # ❔ Frequently Asked Questions (FAQs)
 1. I am not from Computer Science, Statistics, Engineering, or any course directly related to Data Science. Am I still allowed to register?
