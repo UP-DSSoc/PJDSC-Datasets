@@ -38,6 +38,9 @@ Materials and slides from the **technical workshops and expert talks** held duri
 - **Traffic Pattern Analysis Using Computer Vision**  
   *Mr. Samuel Harrison Cerrudo*
 
+- **Collection of Active Transport Data**  
+  *Mr. Aldrin Pelicano, EnP*
+
 These sessions provided foundational and advanced insights into how data science can be applied to real-world challenges in urban mobility.
 
 ---
