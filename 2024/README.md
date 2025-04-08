@@ -1,3 +1,5 @@
+![googleformletterhead](https://github.com/user-attachments/assets/fa3daf64-8e36-4540-8205-84e1be9b9480)
+
 # Philippine Junior Data Science Challenge 2024  
 ### Organized by the UP Data Science Society  
 
