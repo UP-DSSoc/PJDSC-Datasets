@@ -60,23 +60,24 @@ The challenge was designed to:
 ## 📣 Acknowledgments
 
 **Organized by:**  
-UP Data Science Society  
+ UP Data Science Society 🔗 [Facebook](https://www.facebook.com/updatasciencesociety) 🔗 [LinkedIn](https://www.linkedin.com/company/updatasciencesociety/)
+
 
 **Powered by:**  
-Globalco  
+Globalco 🔗 [Facebook](https://www.facebook.com/globalco.center) 🔗 [LinkedIn](https://www.linkedin.com/company/global-coordination-center/)
 
 **Co-presented by:**  
-UPV Statistical Society  
+UPV Statistical Society  🔗 [Facebook](https://www.facebook.com/UPVStatSoc) 
 
 **In cooperation with:**  
-Alliance of Statistics Majors UPLB  
+Alliance of Statistics Majors UPLB  🔗 [Facebook](https://www.facebook.com/asmuplb2014) [LinkedIn](https://www.linkedin.com/company/alliance-of-statistics-majors-uplb/)
 
 **Special thanks to:**  
-- Analytics & Artificial Intelligence Association of the Philippines  
-- Department of Information and Communications Technology - DICT  
-- Department of Transportation - Philippines  
-- ICT Industry Development Bureau  
-- Mobility Vision+  
+- Analytics & Artificial Intelligence Association of the Philippines 🔗 [Facebook](https://www.facebook.com/analytics.ai.ph) 🔗 [LinkedIn](https://www.linkedin.com/company/analytics-ai-ph/)
+- Department of Information and Communications Technology - DICT 🔗 [Facebook](https://www.facebook.com/DICTgovph) 🔗 [LinkedIn](https://www.linkedin.com/company/dictgovph/)
+- Department of Transportation - Philippines 🔗 [Facebook](https://www.facebook.com/DOTrPH) 🔗 [LinkedIn](https://www.linkedin.com/company/department-of-transportation-philippines/)
+- ICT Industry Development Bureau 🔗 [Facebook](https://www.facebook.com/DICTIIDB) 🔗 [LinkedIn](https://www.linkedin.com/company/dict-iidb/)
+- Mobility Vision+  🔗 [Facebook](https://www.facebook.com/mobilityvisionplus) 🔗 [LinkedIn](https://www.linkedin.com/company/mobilityvisionplus/)
 ---
 
 ## 📌 Notes
@@ -88,11 +89,11 @@ Alliance of Statistics Majors UPLB
 
 ## 📬 Contact Us
 
-For inquiries, collaborations, or access to specific files:
+For inquiries, collaborations, or access to specific files:  
 📧 **updatasciencesociety@gmail.com**  
 🌐 [UP Data Science Society](https://www.facebook.com/updatasciencesociety)  
-
-Let's continue driving progress through data!
+  
+Let's continue driving progress through data!  
 
 **#PhilippineJuniorDataScienceChallenge**  
 **#PJDSC2024**  
