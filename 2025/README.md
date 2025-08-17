@@ -14,11 +14,11 @@ This repository contains the following materials from the competition:
 
 ### 🏆 Winners' Source Codes
 - Complete project source codes submitted by the **Top Performing Teams**
-- These codes demonstrate creative and technical excellence in solving data-driven problems related to sustainable urban transport systems.
+- These codes demonstrate creative and technical excellence in solving data-driven problems related to atmospheric resilience and climate solutions.
 
 ### 🎤 Finalists' Presentations
 - **Presentation slides** from all **finalist teams**, showcasing their problem statements, methodologies, results, and proposed solutions.
-- These decks are valuable references for students, educators, and practitioners interested in data science and mobility challenges.
+- These decks are valuable references for students, educators, and practitioners interested in data science and atmospheric challenges.
 
 ### 🛠️ Workshops & Seminars
 Materials and slides from the **technical workshops and expert talks** held during the competition:
@@ -26,7 +26,7 @@ Materials and slides from the **technical workshops and expert talks** held duri
 - **Workshop**  
   *Speaker*
 
-These sessions provided foundational and advanced insights into how data science can be applied to real-world climate challenges.
+These sessions provided foundational and advanced insights into how data science can be applied to real-world atmospheric and climate challenges.
 
 ---
 
