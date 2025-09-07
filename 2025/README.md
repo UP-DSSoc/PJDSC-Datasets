@@ -50,17 +50,19 @@ The challenge was designed to:
 Globalco 🔗 [Facebook](https://www.facebook.com/globalco.center) 🔗 [LinkedIn](https://www.linkedin.com/company/global-coordination-center/)
 
 **Co-presented by:**  
-UPV Statistical Society  🔗 [Facebook](https://www.facebook.com/UPVStatSoc) 
+- Eskwelabs 🔗 [Facebook](https://www.facebook.com/Eskwelabs) 🔗 [LinkedIn](https://www.linkedin.com/company/eskwelabs/)
+- GainForest 🔗 [Facebook]() 🔗 [LinkedIn](https://www.linkedin.com/company/gainforest/)
+- UP Intelligent Systems Center (UP ISC) 🔗 [Facebook](https://www.facebook.com/upintelligentsystemscenter)
+- Data Engineering Pilipinas 🔗 [Facebook](https://www.facebook.com/DataEngineeringPilipinas) 🔗 [LinkedIn](https://www.linkedin.com/company/dataengineeringpilipinas/)
+- UPV Statistical Society  🔗 [Facebook](https://www.facebook.com/UPVStatSoc)
 
 **In cooperation with:**  
-Alliance of Statistics Majors UPLB  🔗 [Facebook](https://www.facebook.com/asmuplb2014) [LinkedIn](https://www.linkedin.com/company/alliance-of-statistics-majors-uplb/)
+FEU Mathematics Society 🔗 [Facebook](https://www.facebook.com/FEUMathSoc)
 
-**Special thanks to:**  
+**Also brought to you by:**  
 - Analytics & Artificial Intelligence Association of the Philippines 🔗 [Facebook](https://www.facebook.com/analytics.ai.ph) 🔗 [LinkedIn](https://www.linkedin.com/company/analytics-ai-ph/)
-- Department of Information and Communications Technology - DICT 🔗 [Facebook](https://www.facebook.com/DICTgovph) 🔗 [LinkedIn](https://www.linkedin.com/company/dictgovph/)
-- Department of Transportation - Philippines 🔗 [Facebook](https://www.facebook.com/DOTrPH) 🔗 [LinkedIn](https://www.linkedin.com/company/department-of-transportation-philippines/)
-- ICT Industry Development Bureau 🔗 [Facebook](https://www.facebook.com/DICTIIDB) 🔗 [LinkedIn](https://www.linkedin.com/company/dict-iidb/)
-- Mobility Vision+  🔗 [Facebook](https://www.facebook.com/mobilityvisionplus) 🔗 [LinkedIn](https://www.linkedin.com/company/mobilityvisionplus/)
+- Philippine Consortium for Social Welfare and Human Development Research 🔗 [Facebook](https://www.facebook.com/profile.php?id=100063646675007)
+
 ---
 
 ## 📌 Notes
