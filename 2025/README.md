@@ -45,10 +45,6 @@ The challenge was designed to:
 **Organized by:**  
  UP Data Science Society 🔗 [Facebook](https://www.facebook.com/updatasciencesociety) 🔗 [LinkedIn](https://www.linkedin.com/company/updatasciencesociety/)
 
-
-**Powered by:**  
-Globalco 🔗 [Facebook](https://www.facebook.com/globalco.center) 🔗 [LinkedIn](https://www.linkedin.com/company/global-coordination-center/)
-
 **Co-presented by:**  
 - Eskwelabs 🔗 [Facebook](https://www.facebook.com/Eskwelabs) 🔗 [LinkedIn](https://www.linkedin.com/company/eskwelabs/)
 - GainForest 🔗 [Facebook]() 🔗 [LinkedIn](https://www.linkedin.com/company/gainforest/)
