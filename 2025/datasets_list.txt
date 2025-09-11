@@ -83,3 +83,23 @@ Source:
 https://noah.up.edu.ph/
 Drive:
 https://drive.google.com/drive/folders/1ALE4-E9c-4AGjm1fqiPprWHrLUskeY9o
+
+Berkeley Earth
+Transparent and open source global warming and air pollution dataset from Berkeley Earth
+Source:
+https://berkeleyearth.org/
+
+National Centers for Environmental Information
+Unified and publicly available recent and historical tropical cyclone data. Developed with all World Meteorological Organization (WMO) Regional Specialized Meteorological Centres, as well as other organizations and individuals from around the world.
+Source:
+https://www.ncei.noaa.gov/products/international-best-track-archive
+
+Geofabric
+Open data extracted from the OpenStreetMap project which is normally updated every day.
+Source:
+https://download.geofabrik.de/
+
+National Computational Infrastructure
+Data from the Himawari series of geostationary weather satellites.
+Source:
+https://thredds.nci.org.au/thredds/catalog/ra22/satellite-products/arc/obs/himawari-ahi/fldk/v1-0/catalog.html
