@@ -95,7 +95,7 @@ Source:
 https://www.ncei.noaa.gov/products/international-best-track-archive
 
 Geofabric
-Open data extracted from the OpenStreetMap project which is normally updated every day.
+Open data extracted from the OpenStreetMap project, normally updated every day.
 Source:
 https://download.geofabrik.de/
 
