@@ -70,7 +70,7 @@ https://lipad.dream.upd.edu.ph/
 
 Open Hazards PH Repository
 GitHub archive of publicly available hazard datasets including flood, landslide, storm surge, and typhoon tracks.
-Github Repository:
+GitHub Repository:
 https://github.com/maning/open-hazards-ph
 
 Philippine Major Cities Air Quality Index Data
@@ -81,7 +81,7 @@ UP NOAH
 Google Drive of flood, landslide, and storm surge data from UP Resilience Institute
 Source:
 https://noah.up.edu.ph/
-Drive:
+Google Drive:
 https://drive.google.com/drive/folders/1ALE4-E9c-4AGjm1fqiPprWHrLUskeY9o
 
 Berkeley Earth
@@ -103,3 +103,19 @@ National Computational Infrastructure
 Data from the Himawari series of geostationary weather satellites.
 Source:
 https://thredds.nci.org.au/thredds/catalog/ra22/satellite-products/arc/obs/himawari-ahi/fldk/v1-0/catalog.html
+
+GainForest
+- Bioacoustic Data
+Audio recordings of natural ecosystems (captured with sensors in the field).
+Google Drive:
+https://drive.google.com/drive/folders/1_lAc0TMbCh31j4fDYdfqhKoadkq_Nz1M?usp=drive_link
+HuggingFace:
+https://huggingface.co/datasets/DiegoGF1329/OCEANUS-Jan2025
+- Ground Data
+4 CSV tables with structured information on trees, plots, and field measurements (all in the same HF repo).
+Google Drive:
+https://drive.google.com/drive/folders/1OYTHAialrCwwA1-oB67g08EXMhykHc-D?usp=drive_link
+HuggingFace:
+https://huggingface.co/datasets/DiegoGF1329/oceanus-gainforest
+Source:
+https://docs.google.com/document/d/18chMg2y_6EDP7GvJbEzvBcmfYLKicznqjozw33Y91iI
