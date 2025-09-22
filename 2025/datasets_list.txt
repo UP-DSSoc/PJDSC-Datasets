@@ -1,0 +1,121 @@
+CANVA LINK:
+https://www.canva.com/design/DAGt39UUqeM/DPhWz62ywAeBW2XQCczUlA/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
+
+1. Project CCHAIN Datasets
+The Project Climate Change, Health, and Artificial Intelligence (Project CCHAIN) dataset is a validated, open-sourced linked dataset containing 20 years (2003-2022) of climate, environmental, socioeconomic, and health dimensions at the barangay (village) level across 12 Philippine cities (Dagupan, Palayan, Navotas, Mandaluyong, Muntinlupa, Legazpi, Iloilo, Mandaue, Tacloban, Zamboanga, Cagayan de Oro, Davao).
+Source: Project CCHAIN. (2024, June 25). Kaggle. https://www.kaggle.com/datasets/thinkdatasci/project-cchain/
+
+Source:
+https://thinkingmachines.github.io/project-cchain/
+
+Request Data Set:
+https://thinkingmachines.github.io/project-cchain/
+
+2. PAGASA Climate Information Map (CliMap)
+CliMap provides high-resolution climate projections and extremes indices for rainfall and temperature across Philippine provinces, based on RCP scenarios. Includes heatwave and temperature anomaly data (e.g., TX90p, WSDI) for assessing exposure to climate extremes.
+
+Source:
+https://www.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling/climap
+
+Request Data Set:
+https://www.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling/climap
+Click province > download CLIRAM/CERAM tables > fill out form > receive Excel/CSV via email.
+
+3. Philippine Climate Change Indicators Dashboard (IMF)
+Aggregated indicators for climate change impacts and adaptation, including emissions, energy use, and resilience metrics.
+
+Source:
+https://climatedata.imf.org/pages/access-data
+
+Data Set:
+https://climatedata.imf.org/datasets/29653214f9424adc99aa2b4dc9049926/about
+
+4. Climate Change Knowledge Portal — Sea Level Rise Projections
+Coastal exposure data showing projected sea level rise and inundation risks.
+
+Source:
+https://climateknowledgeportal.worldbank.org/country/philippines/sea-level-historical
+
+Data Set:
+https://climateknowledgeportal.worldbank.org/download-data#htab-1503
+
+5. Philippine Tropical Cyclone Tracks (GeoJSON)
+Historical tracks of tropical cyclones entering the Philippine Area of Responsibility, compiled from PAGASA and humanitarian sources.
+
+Sources:
+PAGASA Annual Tropical Cyclone Tracks
+https://www.pagasa.dost.gov.ph/information/annual-cyclone-track
+Philippine Disaster Resilience Foundation (PDRF)
+https://www.pdrf.org/
+https://data.humdata.org/organization/c9acf432-a02a-4342-ba62-d22acca0af97
+
+Data Sets:
+2024 Tropical Cyclone Tracks
+https://data.humdata.org/dataset/02da0e67-e9d9-496a-bfdf-f656320ce2f2
+
+Tropical Cyclone Carina (Gaemi) Private Sector Response Efforts (July 2024)
+https://data.humdata.org/dataset/tropical-cyclone-carina-gaemi-private-sector-response-efforts
+
+Tropical Cyclone Kristine (Trami) Private Sector Response Efforts (October 2024)
+https://data.humdata.org/dataset/philippines-tropical-cyclone-kristine-trami-private-sector-response-efforts
+
+Tropical Cyclone Nika, Ofel, and Pepito Private Sector Response Efforts (November 2024)
+https://data.humdata.org/dataset/philippines-tropical-cyclone-nika-ofel-and-pepito-private-sector-response-efforts
+
+Others:
+LiPAD Flood Hazard Maps (Phil-LiDAR Program)
+High-resolution flood hazard maps generated using LiDAR technology, covering major river basins and urban areas in the Philippines.
+Source and Request for Access:
+https://lipad.dream.upd.edu.ph/
+
+Open Hazards PH Repository
+GitHub archive of publicly available hazard datasets including flood, landslide, storm surge, and typhoon tracks.
+GitHub Repository:
+https://github.com/maning/open-hazards-ph
+
+Philippine Major Cities Air Quality Index Data
+Air Quality Index (AQI) dataset of 138 Major Philippine Cities Weather Data Available In Open Weather Map, data of 1-hour intervals extracted from https://openweathermap.org/.
+Kaggle:	https://www.kaggle.com/datasets/bwandowando/philippine-cities-air-quality-index-data-2025/data
+
+UP NOAH
+Google Drive of flood, landslide, and storm surge data from UP Resilience Institute
+Source:
+https://noah.up.edu.ph/
+Google Drive:
+https://drive.google.com/drive/folders/1ALE4-E9c-4AGjm1fqiPprWHrLUskeY9o
+
+Berkeley Earth
+Transparent and open source global warming and air pollution dataset from Berkeley Earth
+Source:
+https://berkeleyearth.org/
+
+National Centers for Environmental Information
+Unified and publicly available recent and historical tropical cyclone data. Developed with all World Meteorological Organization (WMO) Regional Specialized Meteorological Centres, as well as other organizations and individuals from around the world.
+Source:
+https://www.ncei.noaa.gov/products/international-best-track-archive
+
+Geofabric
+Open data extracted from the OpenStreetMap project, normally updated every day.
+Source:
+https://download.geofabrik.de/
+
+National Computational Infrastructure
+Data from the Himawari series of geostationary weather satellites.
+Source:
+https://thredds.nci.org.au/thredds/catalog/ra22/satellite-products/arc/obs/himawari-ahi/fldk/v1-0/catalog.html
+
+GainForest
+- Bioacoustic Data
+Audio recordings of natural ecosystems (captured with sensors in the field).
+Google Drive:
+https://drive.google.com/drive/folders/1_lAc0TMbCh31j4fDYdfqhKoadkq_Nz1M?usp=drive_link
+HuggingFace:
+https://huggingface.co/datasets/DiegoGF1329/OCEANUS-Jan2025
+- Ground Data
+4 CSV tables with structured information on trees, plots, and field measurements (all in the same HF repo).
+Google Drive:
+https://drive.google.com/drive/folders/1OYTHAialrCwwA1-oB67g08EXMhykHc-D?usp=drive_link
+HuggingFace:
+https://huggingface.co/datasets/DiegoGF1329/oceanus-gainforest
+Source:
+https://docs.google.com/document/d/18chMg2y_6EDP7GvJbEzvBcmfYLKicznqjozw33Y91iI
