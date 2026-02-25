@@ -16,6 +16,10 @@ The Philippine Junior Data Science Challenge 2025 is a national competition orga
 
 This repository contains the following materials from the competition:
 
+### 🗂️ Dataset Catalog
+- Collection of datasets used for PJDSC 2025 projects, available for analysis and reference.  
+🔗 [Explore Datasets](https://github.com/UP-DSSoc/PJDSC-Datasets/tree/main/2025/Datasets)
+
 ### 🏆 Winners' Source Codes
 - Source codes from the **Top 10 Teams**, demonstrating technical and creative excellence in solving atmospheric and climate-related challenges.
 
